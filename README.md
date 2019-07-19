@@ -1,5 +1,5 @@
 # itsy-bitsy-spider
-###**A basic scrapy spider for Craiglist**
+### **A basic scrapy spider for Craiglist**
 
 *Ojectives*
 
